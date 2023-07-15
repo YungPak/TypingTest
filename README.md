@@ -1,2 +1,2 @@
 # TypingTest
- Simple Typing Test Game
+ Simple Typing Test Game Using the Quoatable API
